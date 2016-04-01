@@ -1,4 +1,7 @@
 <?php
+
+// 500px:500pxで書き出すサンプル
+
 // with your own install
 require_once 'src/PhpPresentation/Autoloader.php';
 
